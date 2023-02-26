@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<Head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>welcome to my page</title>
+
+<style>
+#mySecondDiv
+
+{
+    background-color: cadetblue;
+}
+
+div{
+
+    background-color: rgb(137, 223, 39);
+}
+p {
+
+    font-size: larger;
+
+    font-weight: bold;
+}
+
+.myDivs{
+
+    background-color: #H2H2H2;
+
+}
+li.reference{
+font-size: 105rem;
+
+color:brown;
+
+font-style: italic
+}
+
+<Body>
+<h1>Welcome to my page</h1>
+<h2>Im Jad Jibawi</h2>
+<div class="myDivs">
+<p>
+ my name is Jad Jibawi
+ <br/>
+  my ID number is : 21930101
+</p>
+</div>
+<div id="mysecondDiv" class="myDivs">
+<p>
+Im Jad Jibawi,My major is computer Science ,this is the third year in Aust
+</p>
+
+ <ul>
+<li class="reference">My major is csi</li>
+<li class="reference">Web prog</li>
+<li class="reference">web prog lab</li>
+
+</ul>
+</div>
+</Body>
+<Html>
